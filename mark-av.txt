@@ -1,4 +1,3 @@
-<select name="brand_id" id="brand_id" onchange="publicPassengerFormInterface.getModels&#x28;this&#x29;&#x3B;" class="select"><option value="">Выбрать</option>
 <option value="1444">Acura</option>
 <option value="1">Alfa Romeo</option>
 <option value="5324">ARO</option>
